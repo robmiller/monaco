@@ -1,5 +1,3 @@
 require "monaco/version"
 
-module Monaco
-  # Your code goes here...
-end
+require "monaco/simulation"
